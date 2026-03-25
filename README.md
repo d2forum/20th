@@ -4,5 +4,6 @@
 - 大会官网：https://www.d2conf.com/
 - 大会所有PPT：请参考本GitHub仓库文件，内容版权供组委会和各位讲师所有，请勿随意使用。
 - 后续相关视频分享请关注公众号：阿里巴巴终端技术的分享和推送。
+- GitHub如果比较难下载，组委会给大家也准备了网盘链接，大家可以在这自取 -> D2技术大会(20th) 链接: https://pan.baidu.com/s/5dfyXRdKyk2qkBplsbm2GrQ
 
 ![image](https://img.alicdn.com/imgextra/i4/O1CN01443RmO1WUmwfPzGYY_!!6000000002792-0-tps-4913-2833.jpg)
